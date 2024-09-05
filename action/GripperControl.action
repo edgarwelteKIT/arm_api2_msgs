@@ -3,4 +3,4 @@ float32 effort
 ---
 bool success
 ---
-float32 progress
+string status

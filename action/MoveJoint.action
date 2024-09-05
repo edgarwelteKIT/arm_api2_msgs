@@ -1,5 +1,5 @@
-float32[] joint_positions
+sensor_msgs/JointState joint_state
 ---
 bool success
 ---
-float32 progress 
+string status

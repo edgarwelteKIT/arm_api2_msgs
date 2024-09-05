@@ -1,5 +1,5 @@
-geometry_msgs/Pose[] poses
+geometry_msgs/PoseStamped[] poses
 ---
 bool success
 ---
-float32[] progress 
+string status
