@@ -19,7 +19,6 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/ChangeState.srv"
   "srv/SetVelAcc.srv"
   "msg/CartesianWaypoints.msg"
-  "action/GripperControl.action"
   "action/MoveCartesian.action"
   "action/MoveCartesianPath.action"
   "action/MoveJoint.action"
